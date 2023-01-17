@@ -1,0 +1,27 @@
+body{
+    background-color:#FAFAFA;
+}        
+.container{
+            color:crimson;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            width: 85%;
+            margin: 70px;
+            font-size: 30px;
+    
+        }
+        span{
+            font-size: 130px;
+            padding: 10px;
+            color:black
+        }
+        .btn{
+            background-color:orangered;
+            color:white;
+            font-size: 40px;
+            border: 1px solid black;
+            padding: 10px;
+            border-radius: 15px;
+            margin: 5px;
+        }
